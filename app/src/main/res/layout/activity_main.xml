@@ -13,7 +13,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
-        android:hint="Description..."
+        android:hint="@string/description"
         android:inputType="textPersonName"
         tools:layout_editor_absoluteX="13dp"
         tools:layout_editor_absoluteY="5dp" />
@@ -24,7 +24,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="5dp"
         android:layout_marginTop="5dp"
-        android:text="TAKE PICTURE"
+        android:text="@string/take_picture"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/etDescription" />
 
@@ -43,8 +43,14 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="5dp"
-        android:text="Submit"
+        android:text="@string/submit"
         app:layout_constraintTop_toBottomOf="@+id/ivPostImage"
         tools:layout_editor_absoluteX="35dp" />
+
+    <Button
+        android:id="@+id/btnLogout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/logout" />
 
 </LinearLayout>
