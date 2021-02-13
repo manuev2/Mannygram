@@ -2,9 +2,9 @@
 
 **Mannygram** is a photo sharing app similar to Instagram but using Parse as its backend.
 
-Time spent: **X** hours spent in total
-
 ## Part 2
+
+Time spent: **X** hours spent in total
 
 ## User Stories
 
@@ -45,6 +45,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 Describe any challenges encountered while building the app.
 
 ## Open-source libraries used
+
+## Part 1
 
 Time spent: **3** hours spent in total
 
