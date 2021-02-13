@@ -4,7 +4,7 @@
 
 Time spent: **X** hours spent in total
 
-#Part 2
+## Part 2
 
 ## User Stories
 
